@@ -3,11 +3,11 @@ Scraped real estate data from sahibinden.com and analyzed using multiple linear 
 
 ## Description
 Scraped data from sahibinden.com using Python for apartments in Mecidiyeköy, İstanbul. Focusing on factors such as square meter, room count, building age, floor number, total floors, number of bathrooms, balconies, elevator, parking, furniture, dues, and deposits. 
-<br>
+
 Multiple linear regression and logistic regression were used to analyze the impact of these factors on apartment prices. Outliers, influence points, and leverage points were identified and and did what is necessary. Furthermore, data transformations applied to improve model performance. The model was evaluated using R-squared and MSE, providing insights into the key factors influencing real estate prices in the area.
-<br>
+
 Below, you can find plots and summary images from the analysis.
-<br>
+
 <p align="center"> Before taking action for outliers and influence points. </p>
 <p align="center">  <img src="images/beforeC.png" alt="Alt text" width="550" /></p>
 <br>
