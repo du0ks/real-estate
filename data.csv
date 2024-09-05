@@ -1,0 +1,463 @@
+TRY Price,Listing ID,m² (Brüt),m² (Net),Oda Sayısı,Bina Yaşı,Bulunduğu Kat,Kat Sayısı,Isıtma,Banyo Sayısı,Balkon,Asansör,Otopark,Eşyalı,Site İçerisinde,Aidat (TL),Depozito (TL)
+8000,1187694369,35,30,Stüdyo (1+0),4,Bahçe Katı,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,150,9000
+8500,1187119426,30,20,Stüdyo (1+0),1,Bahçe Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,8500
+8500,1184857899,25,20,Stüdyo (1+0),1,Giriş Altı Kot 2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,9000
+8500,1153527020,35,30,Stüdyo (1+0),0,Giriş Altı Kot 3,3,Kombi (Doğalgaz),1,Yok,Yok,Açık & Kapalı Otopark,Evet,Hayır,,
+9000,1181243123,35,30,Stüdyo (1+0),0,Giriş Altı Kot 2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,9000
+9000,1069222600,20,15,Stüdyo (1+0),11-15 arası,2,5,Merkezi,1,Yok,Yok,Yok,Evet,Hayır,,1000
+9000,1165339587,25,20,Stüdyo (1+0),0,Giriş Altı Kot 2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,9000
+9500,1159378856,35,20,Stüdyo (1+0),4,3,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,9500
+9500,1189208280,20,15,Stüdyo (1+0),1,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,9500
+9500,1189190677,25,15,Stüdyo (1+0),1,1,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,9500
+9500,1169655454,35,30,Stüdyo (1+0),1,Bahçe Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,8500
+9500,1186377156,30,25,Stüdyo (1+0),0,2,6,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,0,9500
+9500,1186362640,35,30,Stüdyo (1+0),0,3,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,9500
+9500,1186309756,25,15,Stüdyo (1+0),2,3,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,9500
+9500,1184855833,30,25,Stüdyo (1+0),1,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,9500
+9500,1185662429,25,20,Stüdyo (1+0),2,3,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,9500
+9500,1140785934,25,20,Stüdyo (1+0),0,Giriş Altı Kot 2,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,9500
+10000,1189375219,65,60,1+1,11-15 arası,Giriş Altı Kot 1,7,Yok,1,Yok,Yok,Yok,Hayır,Hayır,,8000
+10000,1077829524,60,55,1+1,2,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,50,10000
+10000,1187464524,20,15,Stüdyo (1+0),11-15 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,
+10000,1142930095,25,20,Stüdyo (1+0),3,2,5,Kombi (Doğalgaz),1,Yok,Yok,Açık & Kapalı Otopark,Evet,Hayır,,
+10000,1187617015,25,20,Stüdyo (1+0),11-15 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+10000,1185457793,55,50,1+1,11-15 arası,Giriş Altı Kot 3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,100,10000
+10000,1186264451,35,25,Stüdyo (1+0),16-20 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,20000
+10000,1184840136,30,20,Stüdyo (1+0),4,1,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,10000
+10000,1184217952,35,25,Stüdyo (1+0),16-20 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,
+10000,1172006949,35,30,Stüdyo (1+0),1,Giriş Altı Kot 2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,10000
+10000,1142189787,35,30,Stüdyo (1+0),0,2,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,10000
+10000,1141496363,35,30,Stüdyo (1+0),0,Çatı Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,10000
+10000,1186239515,35,30,Stüdyo (1+0),4,Bahçe Katı,5,Kombi (Doğalgaz),1,Var,Yok,Açık Otopark,Evet,Hayır,,20000
+10000,1185012620,30,25,Stüdyo (1+0),26-30 arası,1,2,Merkezi,1,Yok,Yok,Yok,Evet,Hayır,0,10000
+10000,1163472506,40,35,Stüdyo (1+0),0,2,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,10000
+10000,1141175507,40,35,Stüdyo (1+0),0,Çatı Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,10000
+10000,1184837675,35,20,Stüdyo (1+0),4,1,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,10000
+10000,1163365640,25,20,Stüdyo (1+0),0,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,0,8500
+10500,1185718877,25,20,Stüdyo (1+0),1,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,10500
+11000,1167467932,40,25,Stüdyo (1+0),4,2,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,11000
+11000,1189133217,30,20,Stüdyo (1+0),1,Yüksek Giriş,4,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,11000
+11000,1185713185,30,20,Stüdyo (1+0),4,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,11000
+11000,1180011613,55,50,2+1,5-10 arası,Giriş Altı Kot 2,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,11000
+11000,1163357647,35,30,Stüdyo (1+0),0,2,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,0,11000
+12000,1189494877,25,20,Stüdyo (1+0),0,Giriş Altı Kot 1,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,12000
+12000,1188074492,25,20,Stüdyo (1+0),1,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,12000
+12000,1187503299,45,40,Stüdyo (1+0),1,2,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,12000
+12000,1186539405,30,25,Stüdyo (1+0),1,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,12000
+12000,1184772630,60,55,2+1,4,Giriş Altı Kot 2,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,,
+12000,1186378944,35,30,Stüdyo (1+0),0,1,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,0,12000
+12000,1185247053,30,25,Stüdyo (1+0),2,1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,12000
+13000,1179859812,55,50,1+1,4,Giriş Altı Kot 2,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,200,13000
+13000,1187267723,87,85,2+1,5-10 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,,13000
+13000,654025151,30,25,Stüdyo (1+0),3,9,12,Kombi (Doğalgaz),1,Yok,Var,Açık & Kapalı Otopark,Evet,Hayır,2000,500
+13000,1186500557,65,60,1+1,5-10 arası,Bahçe Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+13000,1186708009,40,35,Stüdyo (1+0),5-10 arası,4,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+13000,1186704304,25,20,Stüdyo (1+0),11-15 arası,3,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+13000,1186376120,50,45,Stüdyo (1+0),5-10 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,0,
+13000,1186374374,42,37,Stüdyo (1+0),5-10 arası,3,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,
+13000,1187128853,40,30,Stüdyo (1+0),1,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,13000
+13000,1177920227,80,70,2+1,5-10 arası,2,7,Kombi (Doğalgaz),1,Yok,Var,Kapalı Otopark,Hayır,Hayır,,13000
+13000,1186538262,35,30,Stüdyo (1+0),1,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,13000
+13000,1171808052,40,30,Stüdyo (1+0),11-15 arası,4,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,26000
+13000,1178850899,65,55,1+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Hayır,Hayır,100,14000
+13500,1188981066,45,40,1+1,5-10 arası,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,250,15000
+13500,1186367007,40,35,Stüdyo (1+0),5-10 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,
+14000,1177822146,100,90,3+1,31 ve üzeri,Yüksek Giriş,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,,
+14000,1179765759,45,40,Stüdyo (1+0),11-15 arası,1,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,0,15000
+14000,1189464516,45,40,Stüdyo (1+0),3,Giriş Altı Kot 1,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+14000,1178836839,45,35,Stüdyo (1+0),11-15 arası,Müstakil,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Belirtilmemiş,Hayır,1000,15000
+14000,1187869807,50,45,1+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+14000,1189137148,35,30,Stüdyo (1+0),5-10 arası,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,28000
+14000,1173270871,35,30,Stüdyo (1+0),5-10 arası,3,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+14000,1187296743,55,50,1+1,5-10 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+14000,1185558033,100,90,2+1,31 ve üzeri,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,,14000
+14000,1183768045,35,30,Stüdyo (1+0),11-15 arası,1,2,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1189416065,60,50,1+1,31 ve üzeri,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+15000,1189182541,65,60,1+1,4,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,50,15000
+15000,1182055764,45,35,Stüdyo (1+0),11-15 arası,1,4,Merkezi,1,Yok,Yok,Yok,Evet,Hayır,,30000
+15000,1172021035,35,30,Stüdyo (1+0),11-15 arası,4,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1167754115,60,50,1+1,4,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,15000
+15000,1180190901,85,75,2+1,11-15 arası,Giriş Altı Kot 3,10,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,200,15000
+15000,1180409014,65,55,1+1,16-20 arası,2,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,250,15000
+15000,1187603545,40,35,Stüdyo (1+0),11-15 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1186481870,65,55,1+1,26-30 arası,1,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+15000,1183892224,90,75,2+1,31 ve üzeri,4,4,Kombi (Doğalgaz),1,Var,Yok,Açık Otopark,Hayır,Evet,,
+15000,1187126502,40,30,Stüdyo (1+0),5-10 arası,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1186660354,35,30,Stüdyo (1+0),16-20 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1186133705,60,55,1+1,11-15 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,200,30000
+15000,1173043642,35,30,Stüdyo (1+0),11-15 arası,3,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1174129132,85,80,2+1,5-10 arası,Bahçe Katı,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,150,
+15000,1185199964,120,110,2+1,16-20 arası,2,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+15000,1185053590,70,65,2+1,16-20 arası,2,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,15000
+15000,1178350915,65,60,1+1,26-30 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,15000
+15000,1183767738,65,60,2+1,16-20 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,,
+15000,1186208904,70,65,2+1,5-10 arası,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,30000
+15000,1184631911,35,30,Stüdyo (1+0),16-20 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1149876071,80,75,2+1,16-20 arası,1,7,Doğalgaz Sobası,1,Yok,Var,Açık Otopark,Evet,Hayır,,
+15000,1185499479,65,60,2+1,4,Giriş Altı Kot 1,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+15000,1172201302,40,30,Stüdyo (1+0),11-15 arası,2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+15000,1155837743,50,45,1+1,5-10 arası,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1172649003,35,30,Stüdyo (1+0),5-10 arası,3,5,Kombi (Doğalgaz),1,Yok,Var,Açık Otopark,Evet,Hayır,,30000
+15000,1172165686,45,40,Stüdyo (1+0),5-10 arası,4,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15000,1183746517,65,60,1+1,5-10 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Var,Kapalı Otopark,Evet,Hayır,,
+15000,1184753015,65,60,1+1,4,Çatı Katı,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,30000
+15000,1184432637,40,35,1+1,5-10 arası,3,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,100,30000
+15500,1185542506,96,87,2+1,26-30 arası,5,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,100,15500
+15500,1181000475,60,45,1+1,1,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,350,16000
+15500,1186421192,35,30,Stüdyo (1+0),16-20 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+15500,1186645417,40,35,Stüdyo (1+0),5-10 arası,Giriş Katı,2,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,
+15500,1184476745,55,40,1+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,120,15000
+15500,1183511951,35,30,Stüdyo (1+0),16-20 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16000,1163445728,65,60,1+1,3,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,16000
+16000,1144458232,55,50,1+1,5-10 arası,5,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,,
+16000,1188440031,55,33,1+1,5-10 arası,Çatı Katı,5,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,200,16000
+16000,1188081689,55,50,1+1,5-10 arası,2,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,32000
+16000,1187613785,65,55,1+1,31 ve üzeri,4,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,16000
+16000,1187041150,55,50,1+1,4,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,150,16000
+16000,1186520290,45,40,1+1,5-10 arası,2,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16000,1186300142,50,45,1+1,5-10 arası,3,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+16000,1186700946,30,20,Stüdyo (1+0),11-15 arası,3,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16000,1184005358,75,70,1+1,5-10 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,150,16000
+16000,1186715832,55,50,1+1,0,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+16000,1183991224,50,45,1+1,5-10 arası,Giriş Altı Kot 2,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,16000
+16000,1186206530,50,45,1+1,5-10 arası,3,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,32000
+16000,1151355025,55,50,1+1,4,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16000,1185427804,60,55,1+1,4,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16000,1178469405,55,50,1+1,11-15 arası,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16000,1175168954,65,60,1+1,0,2,7,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+16250,1187659540,70,50,1+1,1,Çatı Katı,5,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,200,17500
+16500,1189602899,45,40,1+1,0,Giriş Altı Kot 2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+16500,1189432954,50,45,1+1,0,Giriş Altı Kot 2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,
+16500,1182253662,60,55,1+1,5-10 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,25000
+16500,1188323095,60,50,1+1,31 ve üzeri,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,18000
+16500,1188485177,40,35,1+1,16-20 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16500,1187820078,45,40,1+1,5-10 arası,1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16500,1188298573,60,55,1+1,0,Giriş Altı Kot 2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+16500,1185220908,40,30,Stüdyo (1+0),5-10 arası,Yüksek Giriş,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,0,30000
+16500,1183260632,65,60,1+1,11-15 arası,1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+16500,1184012268,55,50,1+1,11-15 arası,1,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+16750,1188352374,80,70,2+1,5-10 arası,Bahçe Katı,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,150,16750
+17000,1189374681,45,40,1+1,4,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+17000,1162606388,60,45,1+1,26-30 arası,1,2,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+17000,1187645004,50,45,1+1,4,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Var,Kapalı Otopark,Evet,Hayır,,
+17000,1186697564,55,50,1+1,5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,150,24000
+17000,1173676489,45,40,Stüdyo (1+0),11-15 arası,Giriş Katı,6,Kombi (Doğalgaz),2,Yok,Yok,Yok,Evet,Hayır,,
+17000,1185033714,70,65,1+1,4,Çatı Katı,4,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,150,17000
+17000,1184859077,95,90,2+1,16-20 arası,4,7,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,100,17000
+17000,1186276956,55,50,1+1,5-10 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Var,Kapalı Otopark,Evet,Hayır,,
+17000,1185278445,70,65,2+1,5-10 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+17000,1183380666,55,50,1+1,5-10 arası,Yüksek Giriş,3,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,150,
+17500,1189368574,55,50,1+1,11-15 arası,Giriş Altı Kot 1,4,Kombi (Elektrik),1,Yok,Yok,Yok,Evet,Hayır,,
+17500,1189372499,55,45,1+1,11-15 arası,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+17500,1182229080,85,75,2+1,26-30 arası,2,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,17500
+17500,1188252170,80,70,2+1,11-15 arası,1,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,150,17500
+17500,1188305938,55,50,1+1,11-15 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+17500,1176004773,75,70,2+1,26-30 arası,2,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Hayır,Hayır,100,16500
+17500,1188303061,50,45,1+1,5-10 arası,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+17500,1186685790,50,40,Stüdyo (1+0),5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+17500,1173344508,45,40,Stüdyo (1+0),11-15 arası,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+17500,1187525786,85,80,2+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,150,17500
+17500,1174209850,85,80,2+1,21-25 arası,2,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,16750
+17500,1186504798,70,69,2+1,26-30 arası,3,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,,18000
+17500,1186890995,75,70,2+1,5-10 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,150,17500
+17500,1186487740,45,40,Stüdyo (1+0),5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),2,Yok,Yok,Yok,Evet,Hayır,,30000
+17500,1186457301,75,70,2+1,5-10 arası,Giriş Altı Kot 2,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,200,17500
+17500,1184005123,80,60,2+1,5-10 arası,3,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,100,18500
+18000,1189571549,85,75,2+1,26-30 arası,1,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+18000,1182690694,65,58,1+1,1,Giriş Altı Kot 1,6,Kombi (Doğalgaz),1,Yok,Var,Kapalı Otopark,Evet,Hayır,150,20000
+18000,1189378852,51,42,1+1,5-10 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+18000,1188297078,55,50,1+1,4,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1187918196,35,30,Stüdyo (1+0),16-20 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+18000,1187618227,35,30,Stüdyo (1+0),16-20 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,200,
+18000,1182667750,55,45,1+1,4,2,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,30000
+18000,1187736987,65,55,1+1,0,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Var,Kapalı Otopark,Evet,Hayır,180,18000
+18000,1175700995,85,80,2+1,5-10 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,150,20000
+18000,1187829562,45,40,Stüdyo (1+0),11-15 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+18000,1187840391,35,30,Stüdyo (1+0),16-20 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+18000,1172637611,35,30,Stüdyo (1+0),11-15 arası,Giriş Katı,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1187067171,70,60,Stüdyo (1+0),21-25 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+18000,1186484610,85,80,2+1,31 ve üzeri,4,5,Kombi (Doğalgaz),5,Var,Yok,Yok,Hayır,Hayır,2,5000
+18000,1186665143,50,40,Stüdyo (1+0),5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1187073770,85,75,2.5+1,21-25 arası,5,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,,
+18000,1173021414,45,40,1+1,11-15 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1185448993,80,70,2+1,11-15 arası,Çatı Katı,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,18500
+18000,1186631357,55,50,Stüdyo (1+0),5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1176560301,50,40,1+1,4,3,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,36000
+18000,1184910358,75,70,1+1,21-25 arası,Giriş Katı,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,150,30000
+18000,1149640920,65,60,1+1,1,1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1155762428,65,60,1+1,1,1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1185267186,70,65,1+1,5-10 arası,Yüksek Giriş,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1184088669,110,105,2+1,11-15 arası,Giriş Altı Kot 1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1186360221,67,65,2+1,3,1,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+18000,871391180,65,60,2+1,3,1,5,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,180,36000
+18000,1186167917,60,55,3+1,5-10 arası,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,150,36000
+18000,1186849187,75,70,2+1,5-10 arası,1,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,36000
+18000,1183349177,75,70,2+1,5-10 arası,1,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,100,18000
+18000,1185291134,60,55,1+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Açık & Kapalı Otopark,Evet,Hayır,,
+18000,1185291134,60,55,1+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Açık & Kapalı Otopark,Evet,Hayır,,
+18000,1180003444,75,70,2+1,5-10 arası,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,36000
+18000,1185200072,60,50,1+1,5-10 arası,Yüksek Giriş,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1185427050,65,60,1+1,4,1,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+18000,1185205611,55,50,1+1,5-10 arası,Yüksek Giriş,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,36000
+18000,1183513752,45,40,Stüdyo (1+0),11-15 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1175175158,66,62,1+1,4,1,7,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+18000,1176587161,65,60,1+1,3,2,7,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+18000,1184085322,65,55,3+1,5-10 arası,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18000,1184312331,65,60,1+1,3,Çatı Katı,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+18000,1184222754,55,45,1+1,4,3,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,36000
+18000,1172649171,45,40,Stüdyo (1+0),5-10 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18500,1189314108,80,70,2+1,5-10 arası,1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,200,18500
+18500,1188285199,95,85,2+1,21-25 arası,4,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,100,18500
+18500,1186900693,60,50,1+1,4,5,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,200,20000
+18500,1187097002,70,65,1+1,2,Giriş Altı Kot 1,6,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,1,37000
+18500,1180298811,40,30,Stüdyo (1+0),11-15 arası,Giriş Katı,7,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,
+18500,1186493975,55,50,Stüdyo (1+0),5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18500,1186627300,40,30,1+1,5-10 arası,2,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+18500,1178260314,65,55,1+1,4,Çatı Katı,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,200,20000
+18500,1184763629,65,60,2+1,26-30 arası,Bahçe Katı,4,Kombi (Elektrik),1,Yok,Yok,Yok,Evet,Hayır,100,
+18500,1185227456,85,80,2+1,5-10 arası,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,250,18500
+18500,1177967487,65,60,2+1,26-30 arası,Bahçe Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+18500,1185195941,65,60,2+1,26-30 arası,Giriş Altı Kot 2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+19000,1188698116,130,120,2+1,4,Giriş Katı,5,Kombi (Doğalgaz),2,Yok,Yok,Yok,Evet,Hayır,,38000
+19000,301524683,60,50,1+1,4,7,13,Merkezi,1,Yok,Var,Açık & Kapalı Otopark,Evet,Evet,3000,500
+19000,1187684796,75,65,2+1,5-10 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+19000,1188313575,80,75,2+1,5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,
+19000,1187895946,45,40,1+1,16-20 arası,1,5,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,250,
+19000,1179695932,80,75,2+1,4,1,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,21500
+19000,1186956465,75,70,2+1,11-15 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,
+19000,807631640,60,55,1+1,4,6,12,Merkezi,1,Yok,Var,Açık Otopark,Evet,Hayır,3000,500
+19000,1187875848,75,70,2+1,5-10 arası,Yüksek Giriş,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,200,19000
+19000,1186411821,80,75,2+1,5-10 arası,Yüksek Giriş,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,50,20000
+19000,411751489,60,55,1+1,3,9,11,Kombi (Doğalgaz),1,Yok,Var,Açık Otopark,Evet,Evet,3000,500
+19000,1186909747,90,85,2+1,26-30 arası,4,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,75,19000
+19000,1187038232,35,30,1+1,11-15 arası,2,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+19000,304422125,55,54,1+1,3,8,12,Merkezi,1,Yok,Var,Açık Otopark,Evet,Hayır,3000,500
+19000,308361467,60,55,1+1,4,8,14,Merkezi,1,Yok,Var,Açık & Kapalı Otopark,Evet,Evet,3000,500
+19000,1186683888,45,40,1+1,16-20 arası,1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+19000,1184740810,90,85,3+1,5-10 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,19500
+19000,1184087117,75,70,2+1,4,Yüksek Giriş,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,200,19000
+19250,1184023309,135,120,2+2,4,Yüksek Giriş,4,Kombi (Doğalgaz),2,Yok,Yok,Yok,Evet,Hayır,,
+19250,1185234336,90,85,3+1,5-10 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,19750
+19500,1182230803,85,80,2+1,11-15 arası,1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,150,25000
+19500,1187049737,75,70,2+1,3,2,3,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,50,25000
+19500,1183774112,65,60,1.5+1,11-15 arası,3,10,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+19750,1185915030,90,85,3+1,5-10 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,19750
+20000,1189392734,70,65,2+1,1,2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,20000
+20000,1189407560,65,60,2+1,2,2,5,Kombi (Doğalgaz),1,Yok,Var,Açık Otopark,Hayır,Hayır,200,20000
+20000,1189334985,75,65,2+1,11-15 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Var,Yok,Açık Otopark,Evet,Hayır,,
+20000,1188815461,60,48,1+1,16-20 arası,6,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,150,20000
+20000,1182473333,85,50,2+1,31 ve üzeri,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Var,Yok,Açık Otopark,Hayır,Hayır,100,40000
+20000,1128930840,75,65,2+1,26-30 arası,4,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,200,20000
+20000,1189242108,70,55,2+1,5-10 arası,2,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+20000,1066443038,100,90,2+1,5-10 arası,3,5,Kombi (Doğalgaz),2,Var,Yok,Yok,Evet,Hayır,,20000
+20000,1188285280,65,60,2+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+20000,1188160295,70,65,2+1,11-15 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+20000,1188386341,50,48,1+1,16-20 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Hayır,Hayır,300,
+20000,1188513284,55,50,2+1,5-10 arası,2,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,40000
+20000,1181281293,60,55,1+1,4,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,20000
+20000,1187707349,100,90,2+1,26-30 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,20000
+20000,1188288075,75,70,2+1,11-15 arası,Yüksek Giriş,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+20000,1187611379,65,60,1+1,26-30 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,1,30000
+20000,314201341,60,55,1+1,2,9,12,Merkezi,1,Yok,Var,Açık & Kapalı Otopark,Evet,Evet,3500,500
+20000,1184260208,120,110,2+1,21-25 arası,3,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,200,20000
+20000,1187294953,75,70,2+1,21-25 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,1,20000
+20000,1186938482,80,70,2+1,26-30 arası,1,6,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,,20000
+20000,1187623308,60,55,1+1,0,4,7,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,20000
+20000,1186932823,45,40,Stüdyo (1+0),4,Çatı Katı,3,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,0,20000
+20000,1180043131,120,110,3+1,1,3,3,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,,
+20000,1168590983,55,50,1+1,0,5,5,Kombi (Doğalgaz),1,Yok,Var,Açık Otopark,Hayır,Hayır,,40000
+20000,1187122093,65,55,1+1,0,3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,
+20000,1174737256,85,80,2+1,21-25 arası,Yüksek Giriş,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,100,
+20000,1179863612,70,65,1+1,5-10 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,100,20000
+20000,1186388304,80,65,2+1,4,2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,150,20000
+20000,1185639323,65,60,1.5+1,11-15 arası,3,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,40000
+20000,1180050500,100,90,2+1,26-30 arası,Giriş Katı,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+20000,1184796116,105,100,2+1,26-30 arası,1,6,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,200,20000
+20000,1185150938,80,78,2+1,5-10 arası,1,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,
+20000,1161452358,55,40,1+1,0,2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,38000
+20000,1184423930,80,70,2+1,16-20 arası,4,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,20000
+20000,1186683258,100,95,2+1,16-20 arası,2,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+20000,1183826703,80,75,2+1,21-25 arası,5,6,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,150,27000
+20000,1183453929,45,40,1+1,11-15 arası,1,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+20000,1183751476,55,45,1+1,11-15 arası,3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+20000,1185287465,60,50,1+1,4,3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,150,
+20000,1183876108,62,58,1+1,0,5,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,20000
+20000,1185647659,65,60,2+1,11-15 arası,3,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,40000
+20000,1183317758,60,50,1+1,0,3,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,
+20000,1183582477,65,60,1+1,0,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,20000
+20000,1188710526,95,85,2+1,26-30 arası,Giriş Katı,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+20000,1187601975,70,65,2+1,11-15 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,30000
+20500,1189359647,70,65,1.5+1,11-15 arası,3,7,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+20500,1188275306,100,90,2+1,21-25 arası,1,5,Kombi (Doğalgaz),2,Yok,Var,Yok,Hayır,Hayır,100,20500
+20500,1186299721,100,55,2+1,21-25 arası,7,7,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,200,20500
+20500,1186502557,65,60,2+1,5-10 arası,Yüksek Giriş,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,250,
+21000,1187873276,110,100,3+1,21-25 arası,2,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,100,21000
+21000,1115067590,65,55,1+1,21-25 arası,4,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,28000
+21500,1183640342,70,60,2+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,200,
+22000,1189475550,75,50,1+1,0,1,8,Kombi (Doğalgaz),1,Yok,Var,Açık Otopark,Hayır,Hayır,,22000
+22000,1189431220,85,80,2+1,5-10 arası,2,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,22000
+22000,487305233,60,55,1+1,3,7,12,Merkezi,1,Yok,Var,Açık & Kapalı Otopark,Evet,Hayır,3000,500
+22000,1189193867,70,65,2+1,5-10 arası,Giriş Altı Kot 1,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+22000,1188716509,110,100,3+1,21-25 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,150,22000
+22000,1188362736,65,60,1+1,4,2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+22000,1176649306,95,60,1+1,16-20 arası,Bahçe Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,,
+22000,1187722889,90,75,2+1,16-20 arası,3,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+22000,1172822724,55,50,1+1,5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+22000,1186491155,75,70,2+1,5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,30000
+22000,1186644235,65,60,2+1,11-15 arası,Giriş Katı,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+22000,1186635207,75,65,2+1,11-15 arası,Giriş Katı,7,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+22000,1183611952,60,55,2+1,11-15 arası,Giriş Katı,7,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+22000,1183306463,55,50,1+1,11-15 arası,3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+22000,1185528338,95,90,2+1,16-20 arası,8,9,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,400,26000
+22000,1183393322,55,50,1+1,11-15 arası,3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+22000,1184289828,100,90,2+1,26-30 arası,3,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,150,22000
+22000,1184020331,55,50,1+1,11-15 arası,3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,400,
+22000,1183514847,55,50,1+1,5-10 arası,3,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+22000,1185442232,100,90,3+1,5-10 arası,2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,22000
+22000,1186497360,75,70,2+1,5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+22500,1187645502,65,60,1+1,5-10 arası,4,4,Kombi (Doğalgaz),1,Var,Var,Kapalı Otopark,Evet,Hayır,,
+22500,1186872970,65,60,1+1,5-10 arası,Çatı Katı,4,Kombi (Doğalgaz),1,Var,Var,Kapalı Otopark,Evet,Hayır,,
+23000,1189305213,80,75,2+1,31 ve üzeri,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,150,23000
+23000,1188490612,70,65,1+1,3,Yüksek Giriş,3,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,,
+23000,1188136066,75,70,2+1,5-10 arası,Yüksek Giriş,3,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,200,23000
+23000,1187912280,65,60,1+1,5-10 arası,1,4,Merkezi (Pay Ölçer),1,Var,Yok,Açık Otopark,Evet,Hayır,0,23000
+23000,1147064896,90,75,2+1,16-20 arası,4,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,,20000
+23000,1185998984,100,80,2+1,16-20 arası,3,3,Kombi (Doğalgaz),2,Yok,Yok,Yok,Evet,Hayır,200,40000
+23000,1173757870,85,75,2+1,21-25 arası,8,8,Kombi (Doğalgaz),1,Var,Var,Kapalı Otopark,Hayır,Hayır,,
+23000,1185296062,75,70,2+1,5-10 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,50,23000
+23000,1184510868,95,90,2+1,16-20 arası,Giriş Katı,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,,50000
+23000,1185029038,85,80,2+1,5-10 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,20000
+24000,1188564131,120,110,3+1,21-25 arası,1,5,Kombi (Doğalgaz),1,Var,Var,Açık Otopark,Hayır,Hayır,200,24000
+24000,1188738047,55,50,1+1,5-10 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+24000,1188368179,93,88,2+1,16-20 arası,Giriş Altı Kot 1,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,100,24000
+24000,1189183699,50,45,1+1,5-10 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+24000,1188296452,50,45,1+1,5-10 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+24000,1188804982,95,85,2+1,21-25 arası,2,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+24000,1179794993,90,85,2+1,21-25 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+24000,1184042263,90,75,2+1,21-25 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+24500,1188299917,70,65,2+1,4,1,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+24500,1184020551,75,70,2+1,5-10 arası,Giriş Altı Kot 2,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+25000,1186439509,110,90,2+1,31 ve üzeri,1,5,Merkezi,1,Yok,Yok,Açık Otopark,Hayır,Hayır,2,5000
+25000,1189600418,120,110,3+1,16-20 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,25000
+25000,1189585068,90,85,2+1,31 ve üzeri,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+25000,1189508940,68,65,2+1,4,Yüksek Giriş,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,
+25000,1189493812,55,50,1+1,21-25 arası,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,200,25000
+25000,1189451528,60,55,1+1,5-10 arası,6,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,0,25000
+25000,1189436179,75,70,1+1,0,2,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1189434060,55,50,1+1,0,4,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,50000
+25000,1189426332,65,60,1+1,0,2,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1189354873,90,80,2+1,26-30 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,50000
+25000,1182585059,100,95,3+1,21-25 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,150,35000
+25000,1188804140,130,120,3+1,31 ve üzeri,4,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,
+25000,1189230669,65,60,1+1,0,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1189209006,65,60,1+1,0,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1188568262,75,70,2+1,21-25 arası,Çatı Katı,3,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,100,25000
+25000,1182571959,140,130,2+1,5-10 arası,4,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Hayır,Hayır,250,20000
+25000,1189072392,65,60,1+1,0,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,100,50000
+25000,1188386482,90,85,2+1,11-15 arası,1,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,200,25000
+25000,1188716460,60,55,1+1,0,3,8,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1188329610,120,110,3+1,21-25 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,100,50000
+25000,1188059528,85,80,2+1,26-30 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,50000
+25000,1188494479,65,60,1+1,0,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1188137399,75,70,2+1,11-15 arası,9,9,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,,
+25000,1187298554,130,125,3+1,11-15 arası,Giriş Altı Kot 1,3,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,1,25000
+25000,1187669182,65,60,1+1,0,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,250,50000
+25000,1187109746,100,95,2+1,31 ve üzeri,5,8,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,120,25000
+25000,1187621280,60,55,1+1,0,4,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1186451354,120,110,2+1,16-20 arası,3,7,Kombi (Doğalgaz),2,Yok,Var,Yok,Hayır,Hayır,150,25000
+25000,1187622538,100,95,2+1,11-15 arası,1,7,Kombi (Doğalgaz),1,Var,Var,Açık Otopark,Hayır,Hayır,200,25000
+25000,1186433864,95,85,2+1,16-20 arası,2,4,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Hayır,Hayır,,25000
+25000,1180073753,80,75,3+1,0,2,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,200,50000
+25000,1186306212,120,110,3+1,16-20 arası,1,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,200,25000
+25000,1185463853,100,85,2+1,26-30 arası,4,6,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,300,25000
+25000,1186730482,100,80,2+1,16-20 arası,4,6,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,300,25000
+25000,1186434640,75,70,2+1,5-10 arası,Giriş Katı,6,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,100,30000
+25000,1185385765,75,65,2+1,5-10 arası,5,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1173569341,85,70,2+1,31 ve üzeri,1,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,250,30000
+25000,1186022099,90,80,2+1,21-25 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+25000,1185664824,85,75,2+1,2,6,7,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1171821214,125,120,3+1,31 ve üzeri,1,4,Merkezi,1,Var,Yok,Açık Otopark,Hayır,Evet,1350,
+25000,1185492275,85,80,2+1,3,6,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,150,
+25000,1179856114,80,75,3+1,1,Giriş Altı Kot 2,3,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,50000
+25000,1185430566,70,65,2+1,4,6,7,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1185435840,75,65,2+1,5-10 arası,4,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1184251135,55,50,1+1,0,3,8,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1184222196,75,70,2+1,2,7,8,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1184283540,60,55,1+1,0,3,8,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1184006064,75,70,2+1,5-10 arası,6,7,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1116212257,75,70,2+1,2,7,8,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+25000,1183576043,75,70,2+1,5-10 arası,5,6,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,,
+25000,1183340085,75,65,1+1,0,3,4,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,50000
+25000,1184332017,75,70,2+1,11-15 arası,9,9,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,,
+25500,1188848771,80,75,2+1,4,4,6,Kombi (Doğalgaz),1,Var,Var,Açık & Kapalı Otopark,Hayır,Hayır,250,25500
+25500,1185094697,145,120,3+1,11-15 arası,1,7,Kombi (Doğalgaz),2,Var,Var,Yok,Hayır,Hayır,150,56000
+26000,1189443034,85,80,2+1,21-25 arası,Bahçe Katı,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,100,26000
+26000,1189074223,110,100,2+1,31 ve üzeri,3,5,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,,
+26000,1186711775,120,100,2+1,16-20 arası,3,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,26000
+26000,1179998306,65,60,2+1,3,5,6,Kombi (Doğalgaz),1,Yok,Var,Kapalı Otopark,Evet,Hayır,200,52000
+26000,1166977141,130,115,3+1,26-30 arası,5,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,500,45000
+26000,1186299147,85,80,2+1,21-25 arası,5,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,150,
+26000,1186366872,95,90,2+1,16-20 arası,5,7,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,150,
+26500,961377718,90,80,2+1,2,4,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,150,30000
+27000,1188638562,90,80,2+1,11-15 arası,Yüksek Giriş,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,35000
+27000,1179042349,125,120,3+1,21-25 arası,Yüksek Giriş,5,Kombi (Doğalgaz),1,Var,Yok,Açık Otopark,Hayır,Hayır,,25000
+27000,1184106213,125,100,3+1,31 ve üzeri,3,5,Merkezi (Pay Ölçer),1,Var,Yok,Açık Otopark,Evet,Hayır,250,54000
+27000,1179905470,75,70,2+1,1,5,7,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+27500,1177551738,140,120,3+1,31 ve üzeri,5,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,55000
+27500,1189148274,75,70,2+1,2,1,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,250,
+28000,1188329896,150,120,3+1,16-20 arası,6,6,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,250,28000
+28000,1186443999,90,70,2+1,21-25 arası,2,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,54000
+29000,1178141582,55,50,1+1,5-10 arası,1,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,200,50000
+29000,1188447431,100,90,2+1,16-20 arası,2,5,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,250,
+29000,1122900079,50,40,1+1,31 ve üzeri,1,5,Merkezi,1,Yok,Yok,Yok,Evet,Hayır,200,50000
+30000,1188609465,110,100,2+1,26-30 arası,1,7,Kombi (Doğalgaz),1,Var,Yok,Açık Otopark,Evet,Hayır,200,30000
+30000,1188200870,85,75,2+1,26-30 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,200,30000
+30000,1188100442,75,70,2+1,31 ve üzeri,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,30000
+30000,1146591477,130,110,3+1,11-15 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Var,Var,Kapalı Otopark,Hayır,Hayır,250,
+30000,1188068601,100,95,2+1,4,5,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+30000,1176011249,130,120,3+1,16-20 arası,6,6,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,200,35500
+30000,1187688279,85,75,1+1,21-25 arası,4,5,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,,
+30000,1185154141,125,120,3+1,21-25 arası,3,7,Kombi (Doğalgaz),1,Var,Var,Yok,Hayır,Hayır,,30000
+30000,1186423750,80,75,2+1,3,6,6,Kombi (Doğalgaz),1,Var,Var,Kapalı Otopark,Evet,Hayır,,
+30000,1184985708,150,145,4+1,26-30 arası,2,5,Kombi (Doğalgaz),2,Var,Yok,Yok,Evet,Hayır,1,60000
+30000,1186305746,80,75,2+1,3,6,6,Kombi (Doğalgaz),1,Var,Var,Açık & Kapalı Otopark,Evet,Hayır,,60000
+30000,1184492416,80,75,2+1,4,6,6,Kombi (Doğalgaz),1,Var,Var,Açık & Kapalı Otopark,Evet,Hayır,,60000
+30000,1184468146,110,100,3+1,21-25 arası,6,6,Kombi (Doğalgaz),1,Var,Var,Açık Otopark,Hayır,Hayır,,
+31000,1182908856,120,100,3+1,21-25 arası,8,8,Kombi (Doğalgaz),1,Var,Var,Kapalı Otopark,Hayır,Hayır,,
+31000,1188106343,110,100,2+1,26-30 arası,2,5,Merkezi,1,Var,Yok,Yok,Hayır,Hayır,1000,31000
+32000,1189562500,130,120,3+1,11-15 arası,Çatı Katı,6,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,,32000
+32000,1185688979,75,50,1+1,4,4,4,Merkezi (Pay Ölçer),1,Yok,Var,Kapalı Otopark,Hayır,Hayır,,
+32500,1188064192,115,100,3+1,26-30 arası,1,10,Merkezi,1,Var,Var,Açık Otopark,Hayır,Evet,,
+33000,1185491829,120,110,3+1,16-20 arası,4,4,Kombi (Doğalgaz),1,Yok,Yok,Yok,Evet,Hayır,,
+33000,1176975978,130,125,3+1,16-20 arası,1,7,Merkezi (Pay Ölçer),1,Var,Var,Açık & Kapalı Otopark,Hayır,Hayır,,
+33750,1148457163,75,70,2+1,1,4,5,Yerden Isıtma,1,Yok,Var,Kapalı Otopark,Evet,Hayır,400,50000
+35000,1189374679,95,85,2+1,26-30 arası,1,4,Kombi (Doğalgaz),1,Yok,Yok,Açık Otopark,Evet,Hayır,300,50000
+35000,1188711896,75,70,1+1,1,4,5,Merkezi,1,Yok,Var,Kapalı Otopark,Evet,Hayır,500,60000
+35000,1167563473,85,80,2+1,5-10 arası,2,4,Merkezi (Pay Ölçer),1,Yok,Yok,Yok,Evet,Hayır,0,35000
+35000,1175583103,130,110,2+1,16-20 arası,4,4,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,,40000
+35000,1187177895,150,140,4+1,5-10 arası,5,6,Kombi (Doğalgaz),2,Var,Var,Yok,Hayır,Hayır,,
+35000,1186569663,85,80,2+1,11-15 arası,6,6,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,200,35000
+35000,1186921454,110,105,3+1,4,Çatı Katı,5,Kombi (Doğalgaz),2,Var,Var,Açık Otopark,Evet,Hayır,300,35000
+39000,1049373198,110,90,2+1,31 ve üzeri,3,6,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,
+39000,1184803282,140,130,3+1,16-20 arası,5,5,Kombi (Doğalgaz),2,Var,Var,Açık Otopark,Evet,Hayır,450,50000
+39000,1186455007,120,110,3+1,11-15 arası,5,6,Kombi (Doğalgaz),1,Yok,Var,Yok,Evet,Hayır,250,50000
+40000,1107345935,120,110,3+1,26-30 arası,Giriş Katı,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Hayır,Hayır,0,40000
+40000,1171844782,84,68,2+1,0,3,5,Yerden Isıtma,1,Var,Var,Kapalı Otopark,Hayır,Hayır,,
+41000,1145019426,200,190,5+1,21-25 arası,5,6,Kombi (Doğalgaz),3,Yok,Var,Kapalı Otopark,Evet,Hayır,,85000
+41000,1172398535,78,60,1+1,0,1,5,Yerden Isıtma,1,Yok,Var,Kapalı Otopark,Hayır,Hayır,,
+41000,1172401029,95,80,2+1,0,3,5,Yerden Isıtma,1,Yok,Var,Kapalı Otopark,Hayır,Hayır,,
+42000,1187065305,70,60,2+1,0,4,6,Yerden Isıtma,1,Yok,Var,Kapalı Otopark,Hayır,Hayır,3000,
+42000,1168166808,90,70,2+1,0,2,5,Yerden Isıtma,1,Yok,Var,Kapalı Otopark,Hayır,Hayır,2500,80000
+45000,1128395966,125,110,3+1,31 ve üzeri,4,4,Kombi (Doğalgaz),2,Var,Yok,Açık Otopark,Evet,Hayır,150,90000
+45000,1133913685,110,80,2+1,5-10 arası,3,6,Kombi (Doğalgaz),1,Var,Var,Yok,Evet,Hayır,,
+45000,1172159667,95,80,2+1,0,1,5,Merkezi (Pay Ölçer),1,Var,Var,Kapalı Otopark,Hayır,Hayır,,90000
+45000,1184205263,135,120,2+2,11-15 arası,4,4,Kombi (Doğalgaz),2,Var,Var,Yok,Hayır,Hayır,,45000
+46000,1139323937,120,95,3+1,0,2,5,Kombi (Doğalgaz),2,Yok,Var,Kapalı Otopark,Hayır,Hayır,,80000
+48000,1187651459,165,160,5+1,31 ve üzeri,5,5,Kombi (Doğalgaz),1,Var,Yok,Yok,Evet,Hayır,,96000
+48000,1186827584,175,155,4+1,31 ve üzeri,4,4,Kombi (Doğalgaz),2,Var,Yok,Yok,Evet,Hayır,,75000
+50000,1175106392,145,120,3+1,26-30 arası,6,6,Kombi (Doğalgaz),1,Var,Var,Açık Otopark,Evet,Hayır,1400,50000
+55000,1187969568,125,96,1+1,5-10 arası,6,20,Merkezi (Pay Ölçer),1,Yok,Var,Kapalı Otopark,Hayır,Evet,,
+60000,1188723500,90,60,2+1,4,4,5,Merkezi (Pay Ölçer),2,Var,Var,Kapalı Otopark,Hayır,Evet,,
+90000,1169831506,132,72,1+1,4,9,30 ve üzeri,Merkezi,1,Var,Var,Açık & Kapalı Otopark,Evet,Evet,12500,180000
+99500,1187614148,185,140,2+1,5-10 arası,7,20,Merkezi (Pay Ölçer),2,Yok,Var,Kapalı Otopark,Evet,Evet,,
+125000,1189570188,310,230,4+1,5-10 arası,5,7,Merkezi (Pay Ölçer),3,Var,Var,Kapalı Otopark,Evet,Evet,4500,
